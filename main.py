@@ -12,6 +12,11 @@
 # import task12;
 # import task13;
 # import task22;
-#import task14;
+# import task14;
 # import task15;
-import task16;
+# import task16;
+# import task24;
+# import task23;
+# import task21;
+# import task20;
+import task17;
